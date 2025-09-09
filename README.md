@@ -35,6 +35,6 @@ Real-time monitoring and analytics platform for Bitcoin blockchain with advanced
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/bitcoin-monitor.git
-cd bitcoin-monitor
+git clone https://github.com/yourusername/blockchain_analyzer.git
+cd blockchain_analyzer
 pip install -r requirements.txt
